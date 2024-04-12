@@ -42,8 +42,7 @@ The various units of measurement available in CSS:
 	max-width: 55rem;
 
 	/* Center horizontally: */
-	margin-left: auto;
-	margin-right: auto;
+	justify-content: center;
 }
 
 /* Links: apply our theme color and remove underline */
